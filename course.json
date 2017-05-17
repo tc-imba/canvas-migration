@@ -1,0 +1,786 @@
+[
+    {
+        "id": 182,
+        "name": "2013 Fall Entry",
+        "course_code": "2013",
+        "enrollment_term_id": 1,
+        "sis_course_id": null
+    },
+    {
+        "id": 163,
+        "name": "2014 Fall Entry",
+        "course_code": "2014",
+        "enrollment_term_id": 1,
+        "sis_course_id": null
+    },
+    {
+        "id": 162,
+        "name": "2015 Fall Entry",
+        "course_code": "2015",
+        "enrollment_term_id": 1,
+        "sis_course_id": null
+    },
+    {
+        "id": 161,
+        "name": "2016 Fall Entry",
+        "course_code": "2016",
+        "enrollment_term_id": 1,
+        "sis_course_id": null
+    },
+    {
+        "id": 189,
+        "name": "Canvas Training Workshop",
+        "course_code": "training",
+        "enrollment_term_id": 1,
+        "sis_course_id": "000001"
+    },
+    {
+        "id": 183,
+        "name": "Graduate Students",
+        "course_code": "Graduate Students",
+        "enrollment_term_id": 1,
+        "sis_course_id": "graduate"
+    },
+    {
+        "id": 202,
+        "name": "Student Advising",
+        "course_code": "Student Advising",
+        "enrollment_term_id": 1,
+        "sis_course_id": null
+    },
+    {
+        "id": 159,
+        "name": "TA GROUP FA2016",
+        "course_code": "TA GROUP FA2016",
+        "enrollment_term_id": 3,
+        "sis_course_id": "tagroupfa2016"
+    },
+    {
+        "id": 246,
+        "name": "TA GROUP SP2017",
+        "course_code": "TA GROUP SP2017",
+        "enrollment_term_id": 5,
+        "sis_course_id": null
+    },
+    {
+        "id": 194,
+        "name": "TH009, Circumstance and Policy",
+        "course_code": "TH009",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378636"
+    },
+    {
+        "id": 244,
+        "name": "TH009, Circumstance and Policy",
+        "course_code": "TH009",
+        "enrollment_term_id": 5,
+        "sis_course_id": "381598"
+    },
+    {
+        "id": 245,
+        "name": "TH020, Circumstance and Policy",
+        "course_code": "TH020",
+        "enrollment_term_id": 5,
+        "sis_course_id": "382704"
+    },
+    {
+        "id": 195,
+        "name": "TH020, Circumstance and Policy ",
+        "course_code": "TH020",
+        "enrollment_term_id": 3,
+        "sis_course_id": "379201"
+    },
+    {
+        "id": 157,
+        "name": "Undergraduate Students",
+        "course_code": "Undergraduate Students",
+        "enrollment_term_id": 1,
+        "sis_course_id": "undergraduate"
+    },
+    {
+        "id": 129,
+        "name": "VC210, Chemistry",
+        "course_code": "VC210     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378318"
+    },
+    {
+        "id": 217,
+        "name": "VC211, Chemistry Lab",
+        "course_code": "VC211",
+        "enrollment_term_id": 5,
+        "sis_course_id": null
+    },
+    {
+        "id": 141,
+        "name": "VE203, Discrete Mathematics",
+        "course_code": "VE203     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378304"
+    },
+    {
+        "id": 188,
+        "name": "VE215, Intro to Circuits, A.Atef",
+        "course_code": "VE215",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378653"
+    },
+    {
+        "id": 136,
+        "name": "VE215, Intro to Circuits, S.L.Chen",
+        "course_code": "VE215     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378310"
+    },
+    {
+        "id": 226,
+        "name": "VE216, Intro to Signals and Systems",
+        "course_code": "VE216",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383170"
+    },
+    {
+        "id": 146,
+        "name": "VE281, Data Structures and Algorithms",
+        "course_code": "VE281     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378297"
+    },
+    {
+        "id": 148,
+        "name": "VE334, Principles of Optics",
+        "course_code": "VE334     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378858"
+    },
+    {
+        "id": 134,
+        "name": "VE370, Intro to Computer Organization",
+        "course_code": "VE370     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378312"
+    },
+    {
+        "id": 223,
+        "name": "VE401, Probabilistic Methods in Eng.",
+        "course_code": "VE401",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379657"
+    },
+    {
+        "id": 151,
+        "name": "VE450/VM450, Major Design Experience(MDE) & Design and Manufacturing III",
+        "course_code": "VE450/VM450     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378292"
+    },
+    {
+        "id": 112,
+        "name": "VE451, Digital Signal Processing and Analysis",
+        "course_code": "VE451     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378567"
+    },
+    {
+        "id": 150,
+        "name": "VE455, Digital Communication Signals ",
+        "course_code": "VE455     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378293"
+    },
+    {
+        "id": 92,
+        "name": "VE458, Biomedical Intrumentation and Design",
+        "course_code": "VE458     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378623"
+    },
+    {
+        "id": 111,
+        "name": "VE460/VM461, Control Systems Analysis and Design & Automatic Control",
+        "course_code": "VE460/VM461   ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378568"
+    },
+    {
+        "id": 99,
+        "name": "VE477, Introduction to Algorithms",
+        "course_code": "VE477     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378616"
+    },
+    {
+        "id": 98,
+        "name": "VE482, Introduction to Operating Systems",
+        "course_code": "VE482     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378617"
+    },
+    {
+        "id": 90,
+        "name": "VE490/VM490, Undergraduate Research",
+        "course_code": "VE490/VM490    ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378624"
+    },
+    {
+        "id": 95,
+        "name": "VE496, Advanced Technical Communication",
+        "course_code": "VE496     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378620"
+    },
+    {
+        "id": 127,
+        "name": "VE501, Probability and Random Processes",
+        "course_code": "VE501     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378322"
+    },
+    {
+        "id": 171,
+        "name": "VE504/VM504, Solid State Physics",
+        "course_code": "VE504/VM504",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378298"
+    },
+    {
+        "id": 100,
+        "name": "VG100, Intro to Engineering",
+        "course_code": "VG100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378591"
+    },
+    {
+        "id": 147,
+        "name": "VG101, Intro to Computers (J.G. Wu)",
+        "course_code": "VG101     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378296"
+    },
+    {
+        "id": 128,
+        "name": "VG101, Intro to Computers (M. Charlemagne)",
+        "course_code": "VG101     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378321"
+    },
+    {
+        "id": 108,
+        "name": "VG450, Global Multidisciplinary Design Project I (GMDP)",
+        "course_code": "VG450     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378575"
+    },
+    {
+        "id": 247,
+        "name": "VG451, Global Multidisciplinary Design Project II",
+        "course_code": "VG451",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383189"
+    },
+    {
+        "id": 97,
+        "name": "VG496, Professional Ethics",
+        "course_code": "VG496     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378618"
+    },
+    {
+        "id": 229,
+        "name": "VK250, Principles of Engineering Materials",
+        "course_code": "VK250",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383174"
+    },
+    {
+        "id": 193,
+        "name": "VM020, Machineshop Training",
+        "course_code": "VM020",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378637"
+    },
+    {
+        "id": 243,
+        "name": "VM020, Machineshop Training",
+        "course_code": "VM020",
+        "enrollment_term_id": 5,
+        "sis_course_id": "381002"
+    },
+    {
+        "id": 126,
+        "name": "VM211, Intro to Solid Mechanics",
+        "course_code": "VM211     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378323"
+    },
+    {
+        "id": 227,
+        "name": "VM211, Intro to Solid Mechanics",
+        "course_code": "VM211",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383171"
+    },
+    {
+        "id": 87,
+        "name": "VM235, Thermodynamics",
+        "course_code": "VM235     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378627"
+    },
+    {
+        "id": 228,
+        "name": "VM240, Intro to Dynamics and Vibrations",
+        "course_code": "VM240",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383172"
+    },
+    {
+        "id": 222,
+        "name": "VM250, Design and Manufacturing I",
+        "course_code": "VM250",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379654"
+    },
+    {
+        "id": 137,
+        "name": "VM311, Strength of Materials",
+        "course_code": "VM311     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378309"
+    },
+    {
+        "id": 110,
+        "name": "VM320, Fluid Mechanics I",
+        "course_code": "VM320     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378573"
+    },
+    {
+        "id": 144,
+        "name": "VM382, Mechanical Behavior of Materials",
+        "course_code": "VM382     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378299"
+    },
+    {
+        "id": 225,
+        "name": "VM382, Mechanical Behavior of Materials",
+        "course_code": "VM382",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379666"
+    },
+    {
+        "id": 109,
+        "name": "VM395, Laboratory I",
+        "course_code": "VM395     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378574"
+    },
+    {
+        "id": 139,
+        "name": "VM433, Advanced Energy Solutions",
+        "course_code": "VM433     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378307"
+    },
+    {
+        "id": 187,
+        "name": "VM434, Materials for Energy Conversion",
+        "course_code": "VM434",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378859"
+    },
+    {
+        "id": 93,
+        "name": "VM458, Automotive Engineering",
+        "course_code": "VM458     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378622"
+    },
+    {
+        "id": 140,
+        "name": "VM495, Laboratory II",
+        "course_code": "VM495     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378306"
+    },
+    {
+        "id": 190,
+        "name": "VM564, Linear Systems",
+        "course_code": "VM564",
+        "enrollment_term_id": 3,
+        "sis_course_id": "379047"
+    },
+    {
+        "id": 133,
+        "name": "VP240, Physics II",
+        "course_code": "VP240     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378313"
+    },
+    {
+        "id": 113,
+        "name": "VP241, Physics Lab II",
+        "course_code": "VP241     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378566"
+    },
+    {
+        "id": 138,
+        "name": "VP260, Honors Physics Ⅱ",
+        "course_code": "VP260     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378308"
+    },
+    {
+        "id": 220,
+        "name": "VR140, Comparative Government and Politics ",
+        "course_code": "VR140",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383182"
+    },
+    {
+        "id": 221,
+        "name": "VR150, German Culture",
+        "course_code": "VR150",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383184"
+    },
+    {
+        "id": 231,
+        "name": "VR203, Food in Modern East Asian History",
+        "course_code": "VR203",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383176"
+    },
+    {
+        "id": 230,
+        "name": "VR206, China in the Early Modern World",
+        "course_code": "VR206",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383175"
+    },
+    {
+        "id": 107,
+        "name": "VR208, Business and Natural Environment",
+        "course_code": "VR208     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378576"
+    },
+    {
+        "id": 103,
+        "name": "VR241, Comparative Literature: Fairy Tales",
+        "course_code": "VR241     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378580"
+    },
+    {
+        "id": 232,
+        "name": "VR253, Culture, Technology and Silicon Valley",
+        "course_code": "VR253",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383177"
+    },
+    {
+        "id": 233,
+        "name": "VR262, Introduction to the Philosophy of Religion",
+        "course_code": "VR262",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383178"
+    },
+    {
+        "id": 234,
+        "name": "VR280, Introduction to Modern Chinese Literature",
+        "course_code": "VR280",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383179"
+    },
+    {
+        "id": 106,
+        "name": "VR280, Introduction to Modern Chinese Literature",
+        "course_code": "VR280     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378577"
+    },
+    {
+        "id": 104,
+        "name": "VR363, Chinese Society in Contemporary Chinese Cinema",
+        "course_code": "VR363     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378579"
+    },
+    {
+        "id": 237,
+        "name": "VR363, Chinese Society in Contemporary Chinese Cinema",
+        "course_code": "VR363",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383185"
+    },
+    {
+        "id": 105,
+        "name": "VR369, Politics of International Economic Relations",
+        "course_code": "VR369     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378578"
+    },
+    {
+        "id": 238,
+        "name": "VR381, Introduction to Social Science Research Design",
+        "course_code": "VR381",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383186"
+    },
+    {
+        "id": 101,
+        "name": "VV115, Calculus Ⅰ",
+        "course_code": "VV115     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378590"
+    },
+    {
+        "id": 131,
+        "name": "VV156, Applied Honors Calculus II",
+        "course_code": "VV156     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378316"
+    },
+    {
+        "id": 102,
+        "name": "VV186, Honors Calculus II",
+        "course_code": "VV186     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378588"
+    },
+    {
+        "id": 91,
+        "name": "VV216, Introduction to Differential Equations ",
+        "course_code": "VV216",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378626"
+    },
+    {
+        "id": 132,
+        "name": "VV256, Applied Honors Calculus IV",
+        "course_code": "VV256     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378314"
+    },
+    {
+        "id": 142,
+        "name": "VV286, Honors Differential Equations",
+        "course_code": "VV286     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378301"
+    },
+    {
+        "id": 143,
+        "name": "VV556, Methods of Applied Math I",
+        "course_code": "VV556     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378300"
+    },
+    {
+        "id": 242,
+        "name": "VV557, Methods of Applied Mathematics II",
+        "course_code": "VV557",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383190"
+    },
+    {
+        "id": 154,
+        "name": "VW110, German I ",
+        "course_code": "VW110     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378585"
+    },
+    {
+        "id": 152,
+        "name": "VW111, German II",
+        "course_code": "VW111     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378587"
+    },
+    {
+        "id": 216,
+        "name": "VW111, German II ",
+        "course_code": "VW111",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379522"
+    },
+    {
+        "id": 156,
+        "name": "VW310, German V ",
+        "course_code": "VW310     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378861"
+    },
+    {
+        "id": 235,
+        "name": "VX203, Leadership and Management",
+        "course_code": "VX203",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383180"
+    },
+    {
+        "id": 236,
+        "name": "VX251, Branding and Brand Management",
+        "course_code": "VX251",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383181"
+    },
+    {
+        "id": 239,
+        "name": "VX310, Interpersonal Communication: Social and Cross-Cultural Communication Skills",
+        "course_code": "VX310",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383187"
+    },
+    {
+        "id": 240,
+        "name": "VX423, Intrapreneurship",
+        "course_code": "VX423",
+        "enrollment_term_id": 5,
+        "sis_course_id": "383188"
+    },
+    {
+        "id": 114,
+        "name": "VY100, Academic Writing Ⅰ(Andrew Yang)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378565"
+    },
+    {
+        "id": 117,
+        "name": "VY100, Academic Writing Ⅰ(Cynthia Vagenitti) - S09",
+        "course_code": "VY100 - S09",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378562"
+    },
+    {
+        "id": 116,
+        "name": "VY100, Academic Writing Ⅰ(Cynthia Vagenitti) - S10",
+        "course_code": "VY100 - S10",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378563"
+    },
+    {
+        "id": 115,
+        "name": "VY100, Academic Writing Ⅰ(David Barnet)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378564"
+    },
+    {
+        "id": 121,
+        "name": "VY100, Academic Writing Ⅰ(Justin Donald Andrews)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378558"
+    },
+    {
+        "id": 124,
+        "name": "VY100, Academic Writing Ⅰ(Nicholas Scott Welch-Bolen)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378555"
+    },
+    {
+        "id": 119,
+        "name": "VY100, Academic Writing Ⅰ(Pamela Mansutti)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378560"
+    },
+    {
+        "id": 122,
+        "name": "VY100, Academic Writing Ⅰ(Ryan Mallory Thorpe)",
+        "course_code": "VY100     ",
+        "enrollment_term_id": 3,
+        "sis_course_id": "378557"
+    },
+    {
+        "id": 204,
+        "name": "VY200 (Amalia Jiva)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379488"
+    },
+    {
+        "id": 214,
+        "name": "VY200 (Andrew Yang)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379493"
+    },
+    {
+        "id": 211,
+        "name": "VY200 (David Barnet)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379489"
+    },
+    {
+        "id": 203,
+        "name": "VY200 (Irene Wei)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379495"
+    },
+    {
+        "id": 210,
+        "name": "VY200 (Justin Donald Andrews)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": null
+    },
+    {
+        "id": 206,
+        "name": "VY200 (Nicholas Scott Welch-Bolen)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": null
+    },
+    {
+        "id": 208,
+        "name": "VY200 (Ryan Mallory Thorpe)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": null
+    },
+    {
+        "id": 212,
+        "name": "VY200 s1 (Cynthia Vagenitti)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379490"
+    },
+    {
+        "id": 213,
+        "name": "VY200 s2 (Cynthia Vagenitti)",
+        "course_code": "VY200",
+        "enrollment_term_id": 5,
+        "sis_course_id": "379491"
+    },
+    {
+        "id": 166,
+        "name": "VZ102, Introduction to Chinese Culture",
+        "course_code": "VZ102",
+        "enrollment_term_id": 3,
+        "sis_course_id": "379042"
+    },
+    {
+        "id": 191,
+        "name": "VZ104, 汉语概论",
+        "course_code": "VZ104",
+        "enrollment_term_id": 3,
+        "sis_course_id": "379043"
+    },
+    {
+        "id": 192,
+        "name": "VZ200, 汉语综合课（2）",
+        "course_code": "VZ200",
+        "enrollment_term_id": 3,
+        "sis_course_id": "379044"
+    }
+]

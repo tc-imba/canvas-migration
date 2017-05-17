@@ -1,0 +1,10 @@
+{
+  "oauth": {
+    "host": "https://sjtu-umich.instructure.com",
+    "authorize_path": "login/oauth2/auth",
+    "access_token_path": "login/oauth2/token",
+    "client_id": "10000000000001",
+    "client_secret": "ii2QAAyAEbtvz3AoMSJPekgmBVlvVOxKHhQSuc4j8sHHAUWkJ40FI9dDEfpw5b4I"
+  },
+  "access_token": "8649~sFzMRdC9uuyJyA1FFDiYmldJkSiNIxtOZytDBoO15d52WcwJHEzzMMYb6yRWStZA"
+}
